@@ -1,0 +1,55 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.fruits.project",
+    "content": {
+        "metaDataVersion": "1.0.0",
+        "name": "com.microchip.fruits.project.orange",
+        "version": "1.75.2",
+        "displayName": "Orange",
+        "FruitName": "Orange",
+        "shortDescription": "One orange supplies a healthy dose of Vitamin C.",
+        "category": [
+            "Citrus"
+        ],
+        "color": "Orange",
+        "season": [
+            "Summer"
+        ],
+        "shape": "Round",
+        "family": "fruits",
+        "expires": "10/01/2021",
+        "warranty": "NA",
+        "returnPolicy": "NA",
+        "keywords": [
+            "Summer",
+            "Citrus",
+            "Orange"
+        ],
+        "vendors": {
+            "vendorName": "wallmart",
+            "price": "2$",
+            "dealer": {
+                "dealerName": "Fruit Mart",
+                "location": {
+                    "state": "California",
+                    "Address": {
+                        "Address Line 1": "NE3605",
+                        "Address Line 2": "William Street",
+                        "State": "California",
+                        "Country": "US"
+                    }
+                }
+            }
+        }
+    },
+    "additionalData": {
+        "longDescription": {
+            "metaDataVersion": "1.0.0",
+            "category": "com.microchip.portal.fileRef",
+            "content": {
+                "metaDataVersion": "1.0.0",
+                "mimeType": "text/markdown"
+            }
+        }
+    }
+}
