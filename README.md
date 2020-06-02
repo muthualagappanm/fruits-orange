@@ -1,3 +1,9 @@
-# Fruits - Guava
+# Fruits - Orange
 
-One of the most gregarious of fruit trees, the guava, Psidium guajava L., of the myrtle family (Myrtaceae), is almost universally known by its common English name or its equivalent in other languages. In Spanish, the tree is guayabo, or guayavo, the fruit guayaba or guyava. The French call it goyave or goyavier; the Dutch, guyaba, goeajaaba; the Surinamese, guave or goejaba; and the Portuguese, goiaba or goaibeira. Hawaiians call it guava or kuawa. In Guam it is abas. In Malaya, it is generally known either as guava or jambu batu, but has also numerous dialectal names as it does in India, tropical Africa and the Philippines where the corruption, bayabas, is often applied. Various tribal names–pichi, posh, enandi, etc.–are employed among the Indians of Mexico and Central and South America.
+One orange supplies a healthy dose of Vitamin C, which plays an important role in cancer prevention, healthy blood circulation and wound healing. 
+Oranges are a good source of the crucial B-vitamin folate, which is essential in preventing birth defects and fighting heart disease. 
+Oranges provide more than seven percent of the Daily Value for potassium, which is needed for proper fluid balance. 
+Navel oranges are named that because of the belly-button formation opposite the stem end. The bigger the navel in an orange, the sweeter it will be.
+Oranges, as well as other fruits, contain a water-soluble fibre called pectin. Studies show that pectin helps reduce blood cholesterol levels. This may explain why individuals who eat several servings daily of fruits, such as oranges, and vegetables have a lower risk for heart disease. 
+Oranges are high in antioxidants, which neutralize the effects of free radicals, unstable oxygen molecules in your body, believed to cause aging and some diseases.
+After chocolate and vanilla, orange is the world's favorite flavor.
